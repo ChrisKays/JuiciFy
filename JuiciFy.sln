@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuiciFy", "JuiciFy.csproj", "{90985743-9723-41F1-AFE0-FC7F577A2830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90985743-9723-41F1-AFE0-FC7F577A2830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90985743-9723-41F1-AFE0-FC7F577A2830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90985743-9723-41F1-AFE0-FC7F577A2830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90985743-9723-41F1-AFE0-FC7F577A2830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21C2B401-B85E-4F3A-9F9D-F6D8915F7685}
+	EndGlobalSection
+EndGlobal
